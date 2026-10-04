@@ -22,3 +22,14 @@ Open one recipe page at a time (not the index) and use the AnyList browser exten
 ## Adding a recipe
 
 Copy any recipe page, then edit both the JSON-LD block in the head and the visible HTML so they match.
+
+## Photo credits
+
+The photos are representative stock images from Unsplash, used under the [Unsplash License](https://unsplash.com/license). They are not photos of these exact recipes.
+
+- `thai-red-curry.jpg`: [Alyssa Kowalski](https://unsplash.com/photos/bowl-of-food-97YFGmT3Cu8)
+- `sheet-pan-fajitas.jpg`: [Thomas Park](https://unsplash.com/photos/a-wooden-table-topped-with-plates-of-food-G3hZMCdLUdw)
+- `egg-roll-in-a-bowl.jpg`: [Mario Raj](https://unsplash.com/photos/vegetable-salad-on-white-ceramic-plate-UhwdAcjk_zo)
+- `greek-bowls.jpg`: [amin ramezani](https://unsplash.com/photos/a-bowl-of-salad-PipzrGSil-c)
+- `bunless-burgers.jpg`: [You Le](https://unsplash.com/photos/a-plate-of-food-SSOQvW4Am2k)
+- `two-pot-chili.jpg`: [Svitlana](https://unsplash.com/photos/a-bowl-of-food-VAbBclifmvY)
